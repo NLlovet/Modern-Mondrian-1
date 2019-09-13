@@ -1,1 +1,54 @@
+body, html 
+{
+    background-color: #45eea8;
+    
+}
 
+#painting
+{
+    background-color: #dd3c30c2;
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+
+#toprow 
+{
+    height: 300px;
+    width: 150px;
+
+}
+
+#bigbox
+{
+    width: 290px;
+    height: 290px;
+}
+
+.red
+{
+    background-color: #ed1000;
+}
+
+.blue
+{
+    background-color: #1d4cdb;
+}
+
+.black
+{
+    background-color: black;
+}
+
+.yellow
+{
+    background-color: #ffe24f;
+}
+
+.right 
+{
+    float: right;
+}
