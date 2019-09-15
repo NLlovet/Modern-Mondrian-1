@@ -7,9 +7,9 @@ body, html
 #painting
 {
     background-color: #dd3c30c2;
-    height: 500px;
-    width: 500px;
-    margin-top: 50px;
+    height: 400px;
+    width: 400px;
+    margin-top: 30px;
     margin-right: auto;
     margin-left: auto;
     box-shadow: 10px 10px 0px #8d8d8d;
@@ -17,8 +17,7 @@ body, html
 
 #toprow 
 {
-    height: 300px;
-    width: 150px;
+    height: 290px;
 
 }
 
@@ -28,6 +27,38 @@ body, html
     height: 290px;
 }
 
+#divider1 
+{
+    height: 290px;
+    width: 10px;
+}
+
+#divider2
+{
+    height: 10px;
+    width: 100px;
+}
+
+#bottomrow
+{
+    height: 10px;
+    width: 400px;
+}
+
+#bottomdivider
+{
+    height: 100px;
+    width: 10px;
+}
+
+
+
+.right 
+{
+    float: right;
+}
+
+
 .red
 {
     background-color: #ed1000;
@@ -35,7 +66,7 @@ body, html
 
 .blue
 {
-    background-color: #1d4cdb;
+    background-color: #4a6bcc;
 }
 
 .black
@@ -45,10 +76,27 @@ body, html
 
 .yellow
 {
-    background-color: #ffe24f;
+    background-color: #eecf37;
 }
 
-.right 
+.widebox
 {
-    float: right;
+    width: 200px;
+    height: 100px;
+}
+
+.mediumbox 
+{
+    width: 100px;
+    height: 140px;
+}
+
+.green
+{
+    background-color: #4bb242;
+}
+
+.purple
+{
+    background-color: #d3428b;
 }
